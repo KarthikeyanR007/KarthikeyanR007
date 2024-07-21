@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there,<a href="#" >KARTHIKEYAN</a> 
+### Who Am  I?
 
-<!--
-**KarthikeyanR007/KarthikeyanR007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  * I'm Karthikeyan R
+  * React and PHP lover
+  * Now Doing freelancer as a App Developer and Web Developer
+  * 22 Years Young Programmer
+  * Well Basement on Web Developing & Designing
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+HTML        100.00 %   ███████████████████████  
+CSS          91.00 %   █████████████████████    
+Bootstrap    97.00 %   ██████████████████████         
+JavaScript   88.00 %   ███████████████████           
+Php          79.00 %   █████████████████        
+MySql        92.00 %   ████████████████████
+Dart         90.00 %   ████████████████████
+Flutter      85.00 %   ███████████████████  
+React        76.00 %   ██████████████████
+React js     70.00 %   ████████████████          
+Git          78.00 %   ███████████████████      
+```
+
+
+
+**Keep Support For my Projects**
+
+**Thank You**
